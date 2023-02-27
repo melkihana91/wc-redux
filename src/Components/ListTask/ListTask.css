@@ -1,0 +1,17 @@
+.list{
+   
+        display: flex;
+      
+       margin: 20px;
+       justify-content: space-around;
+       flex-direction:row;
+       
+       border: 10px;
+     
+       color: rgba(34, 5, 116, 0.979);
+    
+        
+    }
+    h1{
+        color: rgba(34, 5, 116, 0.979); 
+    }
